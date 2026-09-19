@@ -9,21 +9,16 @@ Since automated document creation in Google Workspace is currently disabled in t
 
 An end-to-end Deep Learning and Computer Vision framework designed to automatically analyze and classify X-ray images into **Fractured** and **Not Fractured** diagnostic categories using TensorFlow and Keras.
 
----
-
 ## 📌 Table of Contents
 
-* [Project Overview](https://www.google.com/search?q=%2523-project-overview&utm_source=gemini)
-* [Key Features](https://www.google.com/search?q=%2523-key-features&utm_source=gemini)
-* [Dataset Architecture](https://www.google.com/search?q=%2523-dataset-architecture&utm_source=gemini)
-* [Model Architecture](https://www.google.com/search?q=%2523-model-architecture&utm_source=gemini)
-* [Training & Performance Metrics](https://www.google.com/search?q=%2523-training--performance-metrics&utm_source=gemini)
-* [Installation & Setup](https://www.google.com/search?q=%2523-installation--setup&utm_source=gemini)
-* [Usage & Pipeline Guide](https://www.google.com/search?q=%2523-usage--pipeline-guide&utm_source=gemini)
-* [Project Structure](https://www.google.com/search?q=%2523-project-structure&utm_source=gemini)
-* [License](https://www.google.com/search?q=%2523-license&utm_source=gemini)
-
----
+* [Project Overview]
+* [Dataset Architecture]
+* [Model Architecture]
+* [Training & Performance Metrics]
+* [Installation & Setup]
+* [Usage & Pipeline Guide]
+* [Project Structure]
+* [License]
 
 ## 📌 Project Overview
 
